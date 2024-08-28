@@ -1,0 +1,1 @@
+Link da imagem no Docker Hub: [thudf/fullcycle](https://hub.docker.com/repository/docker/thudf/fullcycle/general)
